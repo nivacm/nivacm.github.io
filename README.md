@@ -1,3 +1,9 @@
 # nivacm
-# a-test-repo-shecodes-git-lesson
-I am learning how to use git!
+The repository is in:
+https://github.com/nivacm/nivacm.github.io
+
+Link
+https://nivacm.github.io/
+
+
+
